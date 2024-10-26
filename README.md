@@ -1,7 +1,7 @@
 # Azure-AI-Machine-Learning
 
 
-# Regression
+# 1. Regression
 
 
 # House Prices - Advanced Regression Techniques
@@ -19,7 +19,7 @@ https://github.com/barirahzainalabidin/BrisT1D-Blood-Glucose-Prediction/tree/mai
 
 
 
-# Classification
+# 2. Classification
 
 
 # Multi-Class Prediction of Obesity Risk
@@ -39,7 +39,7 @@ https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/READ
 
 
 
-# Fraud Detection 
+# 3. Fraud Detection 
 
 
 
