@@ -42,5 +42,8 @@ https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/READ
 # 3. Fraud Detection 
 
 
+# IEEE-CIS Fraud Detection
+
+https://github.com/barirahzainalabidin/IEEE-CIS-Fraud-Detection/tree/main
 
 
