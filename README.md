@@ -34,3 +34,11 @@ https://github.com/barirahzainalabidin/Multi-Class-Prediction-of-Obesity-Risk/tr
 
 https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/README.md
 
+
+
+
+# Fraud Detection 
+
+
+
+
