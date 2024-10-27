@@ -31,6 +31,13 @@ https://github.com/barirahzainalabidin/Regression-of-Used-Car-Prices-1
 
 
 
+# Elo Merchant Category Recommendation
+
+
+https://github.com/barirahzainalabidin/Elo-Merchant-Category-Recommendation
+
+
+
 
 # 2. Classification
 
@@ -62,6 +69,21 @@ https://github.com/barirahzainalabidin/Loan-Approval-Prediction-1
 
 
 
+# Coupon Purchase Prediction
+
+
+https://github.com/barirahzainalabidin/Coupon-Purchase-Prediction
+
+
+
+
+# Allstate Purchase Prediction Challenge
+
+
+https://github.com/barirahzainalabidin/Allstate-Purchase-Prediction-Challenge
+
+
+
 
 # 3. Fraud Detection 
 
@@ -79,5 +101,11 @@ https://github.com/barirahzainalabidin/IEEE-CIS-Fraud-Detection/tree/main
 # Rohlik Orders Forecasting Challenge
 
 https://github.com/barirahzainalabidin/Rohlik-Orders-Forecasting-Challenge-1/tree/main
+
+
+
+# Store Sales - Time Series Forecasting
+
+https://github.com/barirahzainalabidin/Store-Sales/blob/main/README.md
 
 
