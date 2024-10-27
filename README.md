@@ -76,11 +76,17 @@ https://github.com/barirahzainalabidin/Coupon-Purchase-Prediction
 
 
 
-
 # Allstate Purchase Prediction Challenge
 
 
 https://github.com/barirahzainalabidin/Allstate-Purchase-Prediction-Challenge
+
+
+
+# Toxic Comment Classification Challenge
+
+
+https://github.com/barirahzainalabidin/Toxic-Comment-Classification-Challenge
 
 
 
