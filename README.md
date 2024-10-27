@@ -17,6 +17,12 @@ https://github.com/barirahzainalabidin/BrisT1D-Blood-Glucose-Prediction/tree/mai
 
 
 
+# Enefit - Predict Energy Behavior of Prosumers
+
+
+https://github.com/barirahzainalabidin/Enefit-Predict-Energy-Behavior-of-Prosumers
+
+
 
 
 # 2. Classification
