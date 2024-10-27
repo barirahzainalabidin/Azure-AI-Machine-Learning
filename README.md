@@ -24,6 +24,13 @@ https://github.com/barirahzainalabidin/Enefit-Predict-Energy-Behavior-of-Prosume
 
 
 
+# Regression Of Used Car Prices
+
+
+https://github.com/barirahzainalabidin/Regression-of-Used-Car-Prices-1
+
+
+
 
 # 2. Classification
 
@@ -46,6 +53,12 @@ https://github.com/barirahzainalabidin/Home-Credit-Default-Risk-1/blob/main/READ
 
 
 https://github.com/barirahzainalabidin/Santander-Customer-Satisfaction/tree/main
+
+
+
+# Loan Approval Prediction
+
+https://github.com/barirahzainalabidin/Loan-Approval-Prediction-1
 
 
 
